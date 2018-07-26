@@ -6,4 +6,4 @@ implemented in Hyperledger Fabrcic and Farbric Composer:
 
 2. Decentralized booking
 
-3. Supply chain
+3. Green Supply chain initiative
