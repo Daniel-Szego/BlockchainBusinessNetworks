@@ -2,7 +2,7 @@
 
 implemented in Hyperledger Fabrcic and Farbric Composer:
 
-1. Bycicle sharing
+1. Bcycle sharing
 
 2. Decentralized booking
 
