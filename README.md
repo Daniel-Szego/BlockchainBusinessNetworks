@@ -10,4 +10,6 @@ implemented in Hyperledger Fabrcic and Farbric Composer:
 
 4. Food supply chain
 
-5. Decentralized booking
+5. Simple decentralized exchange
+
+6. Decentralized booking
