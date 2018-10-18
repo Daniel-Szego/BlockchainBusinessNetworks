@@ -13,3 +13,5 @@ implemented in Hyperledger Fabrcic and Farbric Composer:
 5. Simple decentralized exchange
 
 6. Decentralized booking
+
+7. Decentralized project management
