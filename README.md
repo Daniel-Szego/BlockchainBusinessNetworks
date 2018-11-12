@@ -26,3 +26,5 @@ Link: https://github.com/Daniel-Szego/DecentralizedProjectManagement
 8. Decentralized Voting
 Link: https://github.com/Daniel-Szego/DecentralizedVotingDemo
 
+9. Automobile Supply Chain
+Link: https://github.com/Daniel-Szego/AutomobileSupplyChain
